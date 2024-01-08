@@ -1,4 +1,4 @@
-# BuzzBuy - Ecommerce Application
+#BuzzBuy - Ecommerce Application
 
 BuzzBuy is an ecommerce application that provides a user-friendly platform for online shopping. It offers secure payment gateways and admin tools for efficient management. Users can leave reviews and ratings for products.
 
