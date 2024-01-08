@@ -29,7 +29,7 @@ Contributions are welcome! If you find any bugs or have ideas for improvements, 
 
 ## Contact
 For any questions or inquiries, feel free to contact on the given email:
-- Email: krishwave66@gmail.com
+- Email: anweshaghosh2020@gmail.com
 
 
 
